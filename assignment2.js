@@ -12,6 +12,7 @@ var fruitPrice={
 
 
 /*  FUNCTION-> is a block of code used to perform a set of Tasks
+exists independently of objects
     e.g A function to add two numbers*/
 
    function sum(){
